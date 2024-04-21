@@ -7,5 +7,7 @@ Home Automation: Garden Lights Automation using LDR sensor, Temperature Conditio
 Tools Used
 
   Arduino IDE: IDE used to code the project
-    Picsim Lab Simulator: Simulates Arduino Uno
-    Blynk IOT application
+  
+  Picsim Lab Simulator: Simulates Arduino Uno
+  
+  Blynk IOT application
